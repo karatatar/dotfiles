@@ -39,7 +39,7 @@ export _ZL_CMD=zlua
 export _ZL_MATCH_MODE=1
 
 # fzf
-export FZF_DEFAULT_OPTS='--height 70% --reverse --border --inline-info --cycle'
+export FZF_DEFAULT_OPTS='--height 70% --reverse --inline-info --cycle'
 export FZF_DEFAULT_COMMAND='ag --hidden --ignore .git -g ""'
 FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 
