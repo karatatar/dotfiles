@@ -17,5 +17,5 @@ ag::map() {
 }
 
 ag::install() {
-   recipe::install_from_git "https://github.com/ggreer/the_silver_searcher"
+   recipe::install_from_git "ggreer/the_silver_searcher"
 }
